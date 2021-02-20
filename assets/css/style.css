@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* renamed header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* replaced ALL divs with sections */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* added 'aside' */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,7 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* renamed and consolidated the classes */
 .more {
     margin-bottom: 32px;
     color: #ffffff;
