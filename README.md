@@ -10,5 +10,5 @@
 ### Link to deployed appplication
 https://lyndseyfin.github.io/01-HTML-CSS-AND-GIT-CODE-REFACTOR/
 
-#### Link to screenshot
-![screenshot]()
+#### Link to screenshoot
+https://www.dteconetwork.com/blog/how-to-take-full-webpage-screenshots-instantly/
