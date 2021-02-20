@@ -11,5 +11,6 @@
 https://lyndseyfin.github.io/01-HTML-CSS-AND-GIT-CODE-REFACTOR/
 
 #### Link to screenshoot
-https://www.dteconetwork.com/blog/how-to-take-full-webpage-screenshots-instantly/
+## Screenshot
+![screenshot](C:\Users\lynds\Downloads\lyndseyfin.github.io_01-HTML-CSS-AND-GIT-CODE-REFACTOR_.png)
 
