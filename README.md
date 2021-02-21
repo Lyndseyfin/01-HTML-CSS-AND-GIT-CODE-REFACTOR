@@ -12,4 +12,4 @@ https://lyndseyfin.github.io/01-HTML-CSS-AND-GIT-CODE-REFACTOR/
 
 
 ## Screenshot
-![screenshot](C:\Users\lynds\code\homework\01-HTML-CSS-AND-GIT-CODE-REFACTOR\assets\screenshot.png)
+![screenshot](assets/screenshot.png)
