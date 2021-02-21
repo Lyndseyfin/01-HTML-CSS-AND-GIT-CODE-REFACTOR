@@ -7,10 +7,9 @@
 - Consolidated/cleaned up the CSS by removing redundancies in the styling
 - Commented on the changes in HTML and CSS
 
-### Link to deployed appplication
+## Link to deployed appplication
 https://lyndseyfin.github.io/01-HTML-CSS-AND-GIT-CODE-REFACTOR/
 
-#### Link to screenshoot
-## Screenshot
-![screenshot](C:\Users\lynds\Downloads\lyndseyfin.github.io_01-HTML-CSS-AND-GIT-CODE-REFACTOR_.png)
 
+## Screenshot
+![screenshot](C:\Users\lynds\code\homework\01-HTML-CSS-AND-GIT-CODE-REFACTOR\assets\screenshot.png)
