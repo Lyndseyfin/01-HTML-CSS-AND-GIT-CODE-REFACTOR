@@ -12,4 +12,4 @@ https://lyndseyfin.github.io/01-HTML-CSS-AND-GIT-CODE-REFACTOR/
 
 
 ## Screenshot
-![screenshot](assets/screenshot.png)
+![screenshot](assets/screencapture-lyndseyfin-github-io-01-HTML-CSS-AND-GIT-CODE-REFACTOR-2021-02-21-09_58_36.png)
